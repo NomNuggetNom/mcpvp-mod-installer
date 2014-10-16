@@ -1,12 +1,14 @@
 {
   "main": {
-    "mod":"2.0.0",
+    "mod":"",
     "modUrl":"",
-    "forge":"10.13.0.1180",
+    "forge":"",
     "forgeUrl":"",
-    "openeye":"0.6",
+    "optifine":"",
+    "optifineUrl":"",
+    "openeye":"",
     "openeyeUrl":"",
-    "mc":"1.7.10"
+    "mc":""
   },
   
   "beta": {
@@ -14,6 +16,8 @@
     "modUrl":"",
     "forge":"10.13.0.1180",
     "forgeUrl":"",
+    "optifine":"",
+    "optifineUrl":"",
     "openeye":"0.6",
     "openeyeUrl":"",
     "mc":"1.7.10"
