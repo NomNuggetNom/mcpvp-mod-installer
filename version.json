@@ -17,7 +17,7 @@
     "forge":"10.13.0.1180",
     "forgeUrl":"http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.7.10-10.13.0.1180/forge-1.7.10-10.13.0.1180-installer.jar",
     "optifine":"1.7.10 HD U A4",
-    "optifineUrl":"https://optifine.net/adloadx?f=OptiFine_1.7.10_HD_U_A4.jar",
+    "optifineUrl":"http://optifine.net/download?f=OptiFine_1.7.10_HD_U_A4.jar",
     "openeye":"0.6",
     "openeyeUrl":"https://dl.dropboxusercontent.com/u/4295615/OpenEye-0.6-1.7.10.jar",
     "mc":"1.7.10"
