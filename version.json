@@ -38,8 +38,8 @@
       }
     },
     
-    "beta": {
-      "2.0.2": {
+    "beta": [
+      {"2.0.2": {
         "mod":"2.0.2",
         "modUrl":"https://github.com/NomNuggetNom/mcpvp-mod/releases/download/v1.7.10-2.0.3b/mcpvp-1.7.10-2.0.2b.jar",
         "forge":"10.13.0.1180",
@@ -49,9 +49,9 @@
         "openeye":"0.6",
         "openeyeUrl":"https://dl.dropboxusercontent.com/u/4295615/OpenEye-0.6-1.7.10.jar",
         "mc":"1.7.10"
-      }, 
+      }}, 
       
-      "2.0.1": {
+      {"2.0.1": {
           "mod":"2.0.1",
           "modUrl":"https://github.com/NomNuggetNom/mcpvp-mod/releases/download/v1.7.10-2.0.3b/mcpvp-1.7.10-2.0.3b.jar",
           "forge":"10.13.0.1180",
@@ -61,7 +61,7 @@
           "openeye":"0.6",
           "openeyeUrl":"https://dl.dropboxusercontent.com/u/4295615/OpenEye-0.6-1.7.10.jar",
           "mc":"1.7.10"
-      }
-    }
+      }}
+    ]
   }
 }
