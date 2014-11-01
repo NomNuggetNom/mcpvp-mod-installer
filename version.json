@@ -13,7 +13,7 @@
   
   "beta": {
     "mod":"2.0.5",
-    "modUrl":"https://github.com/NomNuggetNom/mcpvp-mod/releases/download/v1.7.10-2.0.5b/mcpvp-1.7.10-2.0.5b.jar",
+    "modUrl":"https://github.com/NomNuggetNom/mcpvp-mod/releases/download/v1.7.10-2.0.5b-pre/mcpvp-1.7.10-2.0.5b-pre.jar",
     "forge":"10.13.0.1180",
     "forgeUrl":"http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.7.10-10.13.0.1180/forge-1.7.10-10.13.0.1180-installer.jar",
     "optifine":"1.7.10 HD U A4",
@@ -41,7 +41,7 @@
     "beta": [
       {
         "mod":"2.0.4",
-        "modUrl":"https://github.com/NomNuggetNom/mcpvp-mod/releases/download/v1.7.10-2.0.4b/mcpvp-1.7.10-2.0.4b.jar",
+        "modUrl":"https://github.com/NomNuggetNom/mcpvp-mod/releases/download/v1.7.10-2.0.4b-pre/mcpvp-1.7.10-2.0.4b-pre.jar",
         "forge":"10.13.0.1180",
         "forgeUrl":"http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.7.10-10.13.0.1180/forge-1.7.10-10.13.0.1180-installer.jar",
         "optifine":"1.7.10 HD U A4",
@@ -53,7 +53,7 @@
       
       {
         "mod":"2.0.3",
-        "modUrl":"https://github.com/NomNuggetNom/mcpvp-mod/releases/download/v1.7.10-2.0.3b/mcpvp-1.7.10-2.0.3b.jar",
+        "modUrl":"https://github.com/NomNuggetNom/mcpvp-mod/releases/download/v1.7.10-2.0.3b-pre/mcpvp-1.7.10-2.0.3b-pre.jar",
         "forge":"10.13.0.1180",
         "forgeUrl":"http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.7.10-10.13.0.1180/forge-1.7.10-10.13.0.1180-installer.jar",
         "optifine":"1.7.10 HD U A4",
@@ -65,7 +65,7 @@
       
       {
         "mod":"2.0.2",
-        "modUrl":"https://github.com/NomNuggetNom/mcpvp-mod/releases/download/v1.7.10-2.0.3b/mcpvp-1.7.10-2.0.2b.jar",
+        "modUrl":"https://github.com/NomNuggetNom/mcpvp-mod/releases/download/v1.7.10-2.0.3b-pre/mcpvp-1.7.10-2.0.2b-pre.jar",
         "forge":"10.13.0.1180",
         "forgeUrl":"http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.7.10-10.13.0.1180/forge-1.7.10-10.13.0.1180-installer.jar",
         "optifine":"1.7.10 HD U A4",
@@ -77,7 +77,7 @@
       
       {
           "mod":"2.0.1",
-          "modUrl":"https://github.com/NomNuggetNom/mcpvp-mod/releases/download/v1.7.10-2.0.3b/mcpvp-1.7.10-2.0.3b.jar",
+          "modUrl":"https://github.com/NomNuggetNom/mcpvp-mod/releases/download/v1.7.10-2.0.3b-pre/mcpvp-1.7.10-2.0.3b-pre.jar",
           "forge":"10.13.0.1180",
           "forgeUrl":"http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.7.10-10.13.0.1180/forge-1.7.10-10.13.0.1180-installer.jar",
           "optifine":"1.7.10 HD U A4",
